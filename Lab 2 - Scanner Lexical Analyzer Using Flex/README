@@ -1,0 +1,4 @@
+This program was NOT completed using pair programming.
+
+Given an input file called program.oc, this program will generate output
+files called program. str and also program.tok

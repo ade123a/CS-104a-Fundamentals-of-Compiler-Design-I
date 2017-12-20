@@ -1,0 +1,12 @@
+{
+   "files.associations": {
+      "*.ml": "ocaml",
+      "*.mli": "ocaml",
+      "xstring": "cpp",
+      "xiosbase": "cpp",
+      "xlocale": "cpp",
+      "xutility": "cpp",
+      "list": "cpp",
+      "vector": "cpp"
+   }
+}

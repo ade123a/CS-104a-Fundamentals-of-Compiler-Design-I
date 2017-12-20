@@ -1,0 +1,9 @@
+This code was not completed using pair programming
+
+A symbol table maintains all of the identifiers in a program so that they can be looked  up  when  referenced.
+Every time a symbol definition is found, it is entered into the symbol table, and every time a reference is 
+found, it is looked up in the symbol table. It also maintains scope and range information, information that
+determines from where a symbol may be referenced. Another important part of a compiler is the type checking 
+mechanism, which is used to verify that operators and functions are passed types of an appropriate nature and
+return results that are consistent. This is done by adding attributes to each node of the AST, although only 
+declaration and expression nodes have non-null attributes.

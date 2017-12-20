@@ -1,0 +1,20 @@
+{
+   "files.associations": {
+      "*.ml": "ocaml",
+      "*.mli": "ocaml",
+      "iosfwd": "cpp",
+      "xstring": "cpp",
+      "xlocale": "cpp",
+      "xutility": "cpp",
+      "bitset": "cpp",
+      "initializer_list": "cpp",
+      "list": "cpp",
+      "type_traits": "cpp",
+      "vector": "cpp",
+      "xhash": "cpp",
+      "ios": "cpp",
+      "xiosbase": "cpp",
+      "string": "cpp",
+      "iostream": "cpp"
+   }
+}
